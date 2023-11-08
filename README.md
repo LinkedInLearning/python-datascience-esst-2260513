@@ -1,4 +1,4 @@
-# [DE-Kursname hier eintragen]
+# [Python für die Datenanalyse 1: Grundlagen]
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
