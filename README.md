@@ -1,6 +1,6 @@
 # [Python für die Datenanalyse 1: Grundlagen]
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[Python für die Datenanalyse 1: Grundlagen]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][[lil-course-url](https://www.linkedin.com/learning/python-fur-die-datenanalyse-1-grundlagen)].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Python für die Datenanalyse 1: Grundlagen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][[lil-course-url](https://www.linkedin.com/learning/python-fur-die-datenanalyse-1-grundlagen)].
 
 ![COURSENAME][lil-thumbnail-url] 
 
@@ -23,7 +23,7 @@ Sehen Sie sich andere Kurse der Autoren auf  [LinkedIn Learning](https://www.lin
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: [https://www.linkedin.com](https://www.linkedin.com/learning/python-fur-die-datenanalyse-1-grundlagen)
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2260513/2260513-1580823796767-16x9.jpg
 
 [1]: # (End of DE-Instruction ###############################################################################################)
 	
