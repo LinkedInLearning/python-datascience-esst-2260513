@@ -10,13 +10,13 @@ Kaum eine andere Programmiersprache eignet sich besser für die Auswertung und D
 
 Dieser Kurs arbeitet mit dem Jupyter Notebook. Die Quellcodes werden deshalb als .ipynb-Dateien zum Download bereitgestellt. Zusätzlich gibt es dieses Repository. Dort stehen Ihnen nach Kapiteln unterteilt die Quellcode-Dateien für das Jupyter-Notebook bereit. Ebenso finden Sie hier in Github (und nur dort) Konvertierungen der .ipynb-Dateien in reine Python-Dateien (Erweiterung .py). Beachten Sie aber, dass viele Schritte (insbesondere Ausgaben) explizit auf die Verwendung des Jupyter-Notebooks ausgerichtet sind. Dessen ungeachtet können Sie aber auch die "normalen" Python-Dateien verwenden.
 ### Autor
-**[Lillian Pierson]**
+**Lillian Pierson**
 
-_[Data Strategy Consultant, Data Science Thought Leader]_
+_Data Strategy Consultant, Data Science Thought Leader_
 
-**[Ralph Steyer]**
+**Ralph Steyer**
 
-_[Diplom Mathematiker]_
+_Diplom Mathematiker_
 
 Sehen Sie sich andere Kurse der Autoren auf  [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lillian-pierson-p-e) und [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steyer) an.
 
